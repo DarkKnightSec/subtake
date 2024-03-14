@@ -1,1 +1,1 @@
-<scrip>alert(1)</script>
+<h1>HACKED</h1>
